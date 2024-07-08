@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import com.bookmymovie.app.entity.Locations;
 
 /**
- * @author Tanaji.
+ * @author Sidramesh.
  *
  */
 @Service
