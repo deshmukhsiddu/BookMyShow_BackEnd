@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.bookmymovie.app.entity.Admin;
 
 /**
- * @author Tanaji.
+ * @author Sidramesh.
  *
  */
 @Service
