@@ -11,7 +11,7 @@ import com.bookmymovie.app.entity.Bookings;
 import com.bookmymovie.app.entity.Slots;
 
 /**
- * @author Tanaji.
+ * @author Sidramesh.
  *
  */
 @Service
