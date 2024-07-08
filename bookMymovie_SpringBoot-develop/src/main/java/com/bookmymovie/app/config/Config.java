@@ -6,7 +6,7 @@ import org.springframework.core.io.ResourceLoader;
 import org.springframework.ui.freemarker.FreeMarkerConfigurationFactoryBean;
 
 /**
- * @author Tanaji.
+ * @author Sidramesh.
  *
  */
 @Configuration
