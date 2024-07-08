@@ -14,7 +14,7 @@ import com.bookmymovie.app.entity.Users;
 import freemarker.template.TemplateException;
 
 /**
- * @author Tanaji.
+ * @author Siramesh.
  *
  */
 @Service
